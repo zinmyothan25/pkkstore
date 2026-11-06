@@ -1,0 +1,81 @@
+{
+  "servers": [
+    {
+      "country": "US",
+      "free": true,
+      "link": "vmess://eyJhZGQiOiAidXNhLmtpd2lodWIudG9wIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjJkNTkzZGJiLWFmOTktNDNmOS1iNWJlLTg5MzAzYmU0NmQ1OSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NDI3LCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYyTmlLb1ZQTiBbVk1lc3MgLSB0Y3BdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9",
+      "name": "US VMess 1",
+      "protocol": "vmess"
+    },
+    {
+      "name": "Thailand Shadowsock Tempo",
+      "country": "Thai",
+      "protocol": "ss",
+      "free": "false",
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIMTJjTWlPZ1ZhZzhrSjFWMjJ6Yk1B@v2.nooend.me:1080#Key-For"
+    },
+    {
+      "name": "SG Shadowsock Tempo",
+      "country": "SG",
+      "protocol": "ss",
+      "free": false,
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzTWlsdjBia25EU3hkWWo4SmdTN3hS@206.189.158.72:43894#%F0%9F%9A%80BLACK%20CYBER%20VIP-SG%F0%9F%87%B8%F0%9F%87%AC"
+    },
+    {
+      "name": "Thailand SS Tempo",
+      "country": "Thai",
+      "protocol": "ss",
+      "free": true,
+      "link": "ss://YWVzLTI1Ni1nY206L0dDUEZYd3pab1g0ZmNCSzBUSGRFQ1ZaeHpmREFKdFJVMDArM2JBUEdPWT0%3D@119.59.124.106:20172?headerType=none&type=tcp#TH_Surf"
+    },
+    {
+      "country": "US",
+      "free": false,
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRC1UbUk3WWFobDh0ZmdRQk9hVFR3@usa.kiwihub.top:1080#%F0%9F%87%BA%F0%9F%87%B2NiKoVPN%20%5BShadowsocks%20-%20tcp%5D",
+      "name": "US Shadowsocks 1",
+      "protocol": "ss"
+    },
+    {
+      "country": "SG",
+      "free": false,
+      "link": "vmess://ewogICJhZGQiOiAicGtrMS5raXdpaHViLnRvcCIsCiAgImlkIjogImM0OWE3OWM1LTBhMTgtNDNlMi04MWM5LTdmZWMzNjY1ZWZlOSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwb3J0IjogNTg1NjAsCiAgInBzIjogIlZtZXNzLVBLS1N0b3JlLWFwayIsCiAgInNjeSI6ICJhdXRvIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=",
+      "name": "SG VMess 1",
+      "protocol": "vmess"
+    },
+    {
+      "country": "SG",
+      "free": false,
+      "link": "vless://076799f8-d922-4bf1-805d-e758e6eb925f@172.104.55.246:443/?type=tcp&encryption=none&flow=&security=tls&sni=m.zoom.us&allowInsecure=1&fp=chrome#%F0%9F%9A%80BLACK%20CYBER%20FREE-SG%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "SG Vless 1",
+      "protocol": "vless"
+    },
+    {
+      "country": "SG",
+      "free": false,
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNThjNWY5MjBiNjg0MmNhYWIxYWQ4YTFlZGY0MmE4ZQ@172.236.136.57:2576?type=tcp#Outline-N4_ayeayeaunghtun__Sing_1793756791",
+      "name": "SG Shadowsocks 1",
+      "protocol": "ss"
+    },
+    {
+      "country": "SG",
+      "free": false,
+      "link": "ss://YWVzLTI1Ni1nY206YzhkcGNsY2pqN2k0b24wZQ@pkk1.kiwihub.top:28829?type=tcp#Shadowsocks_apk",
+      "name": "SG Shadowsocks 2",
+      "protocol": "ss"
+    },
+    {
+      "country": "TH",
+      "free": false,
+      "link": "vmess://eyJhZGQiOiAiNDMuMjQ5LjMyLjIyNSIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJhYTAzMmU4YS0yYTI4LTRiNjgtODdlMC00MjVjM2Q1NDY0ZjkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQyNywgInBzIjogIlx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRlZE5pS29BUEsgXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFZNZXNzIC0gdGNwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9",
+      "name": "TH VMess 1",
+      "protocol": "vmess"
+    },
+    {
+      "country": "TH",
+      "free": false,
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2YldIWEU1YjJ4Tlc1bzl6SmstSGRR@43.249.32.225:1080#%F0%9F%87%B9%F0%9F%87%ADNiKoAPK%20%F0%9F%87%B9%F0%9F%87%AD%20Shadowsocks%20-%20tcp",
+      "name": "TH Shadowsocks 1",
+      "protocol": "ss"
+    }
+  ]
+}
